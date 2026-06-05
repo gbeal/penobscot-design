@@ -1,0 +1,16 @@
+{
+  "name": "penobscot-design",
+  "version": "0.1.0",
+  "description": "Penobscot UI design system — Maine-inspired, framework-agnostic",
+  "type": "module",
+  "scripts": {
+    "dev": "storybook dev -p 6006",
+    "build": "storybook build"
+  },
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "@storybook/html-vite": "^10.4.2",
+    "storybook": "^10.4.2",
+    "vite": "^8.0.16"
+  }
+}
